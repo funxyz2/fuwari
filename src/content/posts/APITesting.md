@@ -42,7 +42,7 @@ Cần phải viết payload vào trường username, ko được thêm trường
 > %23 = #
 
 ```
-    username=administrator%26field=tmp%23p
+    username=administrator%26field=tmp%23
 ```
 
 Giờ đi tìm parameter cho trường field là oke
