@@ -27,6 +27,13 @@ content starts at 4-columns in.
 > They can span multiple paragraphs,
 > if you like.
 
+> this is a test block quotes
+> second paragraph
+>
+> span
+> another span
+> no more span, which mean this is an append for that lastest sentence
+
 Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
@@ -81,7 +88,7 @@ Now a nested list:
 3. Dump everything in the pot and follow
     this algorithm:
 
-        find wooden spoon
+        find wooden spoon   
         uncover pot
         stir
         cover pot

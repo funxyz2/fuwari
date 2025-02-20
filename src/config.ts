@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'funxyz2',
-  subtitle: 'CTF Writeup blog',
+  subtitle: '#robloxislife',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 320,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -25,11 +25,11 @@ export const siteConfig: SiteConfig = {
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
-    // {
-    //   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-    //   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-    //   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-    // }
+    {
+      src: 'assets/images/Matsu-rounded.png',    // Path of the favicon, relative to the /public directory
+    //  theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+    //  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+    }
   ]
 }
 
