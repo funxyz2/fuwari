@@ -1,7 +1,7 @@
 ---
 title: Web Security Academy
 published: 2025-02-18
-description: ''   
+description: 'Writeup giải quyết 1 số bài đáng chú ý trong các path Web Security Academy của Port Swigger '   
 image: ''
 tags: []
 category: 'Port Swigger'
